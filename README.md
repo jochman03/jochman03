@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-## Hi 👋
-
-Embedded-focused developer working mainly with **STM32** and **ESP8266**.
+Embedded-focused developer working mainly with **STM32**, **ESP32** and **ESP8266**.
 
 I write low-level **C**, build firmware directly from datasheets, and design
 complete hardware–software systems.  
