@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-Embedded-focused developer working mainly with **STM32**, **ESP32** and **ESP8266**.
+Embedded-focused developer working primarily with STM32, ESP32, and ESP8266.
 
-I write low-level **C**, build firmware directly from datasheets, and design
-complete hardware–software systems.  
-I also use simulations to validate behavior before running code on hardware.
+I write low-level C and C++, develop firmware directly from datasheets, and design complete hardware–software systems. I also leverage simulations to validate behavior before deploying code on hardware.
+
+Lately, I’ve been focusing on C++ software development, expanding my skills in embedded programming and real-time system design.
 
 ---
 
@@ -20,6 +20,7 @@ I also use simulations to validate behavior before running code on hardware.
 ## 🧠 Technologies & Tools
 
 ### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MATLAB](https://img.shields.io/badge/MATLAB-FF6600?style=for-the-badge)
