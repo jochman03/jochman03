@@ -1,23 +1,23 @@
 ## Hi there 👋
 
-Embedded-focused developer working primarily with STM32, ESP32, and ESP8266.
+Embedded systems developer working with STM32, ESP32, and ESP8266.
 
-I write low-level C and C++, develop firmware directly from datasheets, and design complete hardware–software systems. I also leverage simulations to validate behavior before deploying code on hardware.
+Firmware in C and C++ based on datasheets and hardware documentation. Focus on low-level drivers, hardware integration, and reliable real-time behavior in embedded systems.
 
-Lately, I’ve been focusing on C++ software development, expanding my skills in embedded programming and real-time system design.
-
----
-
-## 🔧 Focus Areas
-- Embedded systems
-- Microcontrollers: STM32, ESP8266
-- Device drivers and low-level firmware
-- Electronics and hardware–software integration
-- Simulation and modeling of embedded systems
+Recently exploring more advanced C++ techniques and improving how I structure embedded software for larger projects.
 
 ---
 
-## 🧠 Technologies & Tools
+## What I focus on
+- Embedded systems and microcontrollers (STM32, ESP32, ESP8266)
+- Low-level driver development
+- Hardware–software integration
+- Real-time embedded software design
+- Lightweight modeling and simulation before deployment
+
+---
+
+## Technologies & Tools
 
 ### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -40,7 +40,7 @@ Lately, I’ve been focusing on C++ software development, expanding my skills in
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ---
 
-## 🌐 Socials
+## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jochman03)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@jochman03)
 
