@@ -2,10 +2,6 @@
 
 Embedded systems developer working with STM32, ESP32, and ESP8266.
 
-Firmware in C and C++ based on datasheets and hardware documentation. Focus on low-level drivers, hardware integration, and reliable real-time behavior in embedded systems.
-
-Recently exploring more advanced C++ techniques and improving how I structure embedded software for larger projects.
-
 ---
 
 ## What I focus on
@@ -20,8 +16,8 @@ Recently exploring more advanced C++ techniques and improving how I structure em
 ## Technologies & Tools
 
 ### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MATLAB](https://img.shields.io/badge/MATLAB-FF6600?style=for-the-badge)
 
